@@ -28,10 +28,10 @@ What the hell is that BS? We love PRs! Contributions are what we actually need!
 
 **LIST**
 
-[x] Fork Wikimedia Phab
+- [x] Fork Wikimedia Phab
 
 
-[] Remove all Wikimedia branding
+- [ ] Remove all Wikimedia branding
 
 
 **LICENSE**
