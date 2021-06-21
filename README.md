@@ -22,9 +22,15 @@ Phabricator is developed and maintained by [Phacility](http://phacility.com).
 
 For resources on filing bugs, requesting features, reporting security issues, and getting other kinds of support, see [Support Resources](https://secure.phabricator.com/book/phabricator/article/support/).
 
-**NO PULL REQUESTS!**
+**NO PULL REQUESTS?!**
 
-We do not accept pull requests through GitHub. If you would like to contribute code, please read our [Contributor's Guide](https://secure.phabricator.com/book/phabcontrib/article/contributing_code/).
+What the hell is that BS? We love PRs! Contributions are what we actually need! 
+
+**LIST**
+
+[x] Fork Wikimedia Phab
+[ ] Remove all Wikimedia branding
+
 
 **LICENSE**
 
